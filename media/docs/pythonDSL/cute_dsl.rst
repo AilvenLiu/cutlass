@@ -17,9 +17,12 @@ CuTe DSL
   JIT Types <cute_dsl_general/types.rst>
   Integration with Frameworks <cute_dsl_general/framework_integration.rst>
   Debugging with the DSL <cute_dsl_general/debugging.rst>
+  IKET Profiling <cute_dsl_general/iket_profiling.rst>
   Autotuning with the DSL <cute_dsl_general/autotuning_gemm.rst>
   Educational Notebooks <cute_dsl_general/notebooks.rst>
   Deprecation Policy <deprecation.rst>
   Compile with TVM FFI <cute_dsl_general/compile_with_tvm_ffi.rst>
   Ahead-of-Time (AOT) Compilation <cute_dsl_general/dsl_ahead_of_time_compilation.rst>
   Talks and Presentations <cute_dsl_general/resources.rst>
+  Naming Conventions <cute_dsl_general/naming_conventions.rst>
+  MMA Programming Guides <mma_docs/intro.rst>
